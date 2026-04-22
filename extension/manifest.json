@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "MeetingAI Local",
+  "version": "1.0",
+  "permissions": [
+    "tabCapture",
+    "offscreen",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
