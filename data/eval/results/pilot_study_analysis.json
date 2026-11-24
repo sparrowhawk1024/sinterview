@@ -1,0 +1,113 @@
+{
+  "status": "success",
+  "paired_participants_count": 6,
+  "participant_ids": [
+    "P001",
+    "P002",
+    "P003",
+    "P004",
+    "P005",
+    "P006"
+  ],
+  "disclaimer": "[PILOT STUDY WARNING] Descriptive analysis on small pilot sample (n = 6). These figures reflect exploratory trends within the pilot cohort and must NOT be cited as confirmatory statistical significance claims or generalized to broader populations.",
+  "metrics": {
+    "wpm": {
+      "description": "Speech Rate (WPM, normative target ~130-160)",
+      "baseline_mean": 134.58,
+      "baseline_std": 12.79,
+      "post_mean": 150.33,
+      "post_std": 13.31,
+      "mean_difference": 15.75,
+      "std_difference": 2.21,
+      "cohens_d_z": 7.133,
+      "bootstrap_95_ci": [
+        5.622,
+        16.753
+      ]
+    },
+    "filler_rate": {
+      "description": "Filler Rate (fillers/response, lower is clearer)",
+      "baseline_mean": 9.75,
+      "baseline_std": 1.37,
+      "post_mean": 6.0,
+      "post_std": 1.27,
+      "mean_difference": -3.75,
+      "std_difference": 0.44,
+      "cohens_d_z": -8.492,
+      "bootstrap_95_ci": [
+        -20.41,
+        -6.676
+      ]
+    },
+    "long_pause_ratio": {
+      "description": "Long Pause Ratio (>2.0s, lower indicates smoother pacing)",
+      "baseline_mean": 0.29,
+      "baseline_std": 0.04,
+      "post_mean": 0.2,
+      "post_std": 0.04,
+      "mean_difference": -0.09,
+      "std_difference": 0.01,
+      "cohens_d_z": -7.891,
+      "bootstrap_95_ci": [
+        -20.474,
+        -6.277
+      ]
+    },
+    "hesitation_index": {
+      "description": "Delivery Hesitation Index (0-1, lower is smoother)",
+      "baseline_mean": 0.65,
+      "baseline_std": 0.06,
+      "post_mean": 0.44,
+      "post_std": 0.07,
+      "mean_difference": -0.22,
+      "std_difference": 0.02,
+      "cohens_d_z": -9.851,
+      "bootstrap_95_ci": [
+        -24.057,
+        -7.73
+      ]
+    },
+    "rubric_overall": {
+      "description": "Overall Rubric Score (1-5, higher is stronger)",
+      "baseline_mean": 3.17,
+      "baseline_std": 0.29,
+      "post_mean": 4.05,
+      "post_std": 0.27,
+      "mean_difference": 0.89,
+      "std_difference": 0.11,
+      "cohens_d_z": 8.186,
+      "bootstrap_95_ci": [
+        6.37,
+        18.048
+      ]
+    },
+    "technical_depth": {
+      "description": "Technical Depth Score (1-5, higher is stronger)",
+      "baseline_mean": 3.1,
+      "baseline_std": 0.37,
+      "post_mean": 3.89,
+      "post_std": 0.41,
+      "mean_difference": 0.79,
+      "std_difference": 0.11,
+      "cohens_d_z": 7.264,
+      "bootstrap_95_ci": [
+        5.663,
+        15.763
+      ]
+    },
+    "clarity": {
+      "description": "Verbal Clarity Score (1-5, higher is stronger)",
+      "baseline_mean": 3.39,
+      "baseline_std": 0.26,
+      "post_mean": 4.08,
+      "post_std": 0.3,
+      "mean_difference": 0.69,
+      "std_difference": 0.11,
+      "cohens_d_z": 6.111,
+      "bootstrap_95_ci": [
+        4.882,
+        15.258
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "total_consented_samples": 1,
+  "refused_unconsented_count": 1,
+  "small_sample_warning": true,
+  "overall_wer": {
+    "mean": 0.0,
+    "ci_95_lower": 0.0,
+    "ci_95_upper": 0.0,
+    "bootstrap_resamples": 1000
+  },
+  "per_speaker_breakdown": [
+    {
+      "speaker_id": "SPK_001",
+      "sample_count": 1,
+      "mean_wer": 0.0,
+      "ci_95_lower": 0.0,
+      "ci_95_upper": 0.0
+    }
+  ],
+  "accent_group_breakdown": [
+    {
+      "accent_group": "South_Asian_IN",
+      "n": 1,
+      "mean_wer": "N/A",
+      "ci_95_lower": "N/A",
+      "ci_95_upper": "N/A",
+      "status": "insufficient_samples (n=1 < 3)"
+    }
+  ]
+}

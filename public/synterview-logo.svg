@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- First overlapping diamond -->
+  <polygon points="20,4 34,18 20,32 6,18" fill="#6366F1" opacity="0.9" />
+  <!-- Second overlapping diamond -->
+  <polygon points="28,16 42,30 28,44 14,30" fill="#4F46E5" opacity="0.85" />
+  <!-- Overlap intersection highlight -->
+  <polygon points="20,22 28,16 28,30 20,32" fill="#818CF8" opacity="0.75" />
+</svg>

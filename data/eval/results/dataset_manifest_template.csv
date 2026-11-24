@@ -1,0 +1,3 @@
+speaker_id,recording_file,reference_transcript,accent_group,mic_type,consent
+SPK_001,spk001_ans1.webm,In production we use virtual DOM caching layers to prevent layout thrashing.,South_Asian_IN,headset_condenser,true
+SPK_002,spk002_ans1.webm,We configured distributed Redis clusters basically to offload queries.,South_Asian_IN,laptop_built_in,false

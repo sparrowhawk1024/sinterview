@@ -1,0 +1,41 @@
+{
+  "id": "pilot-P001-practice_1",
+  "participant_id": "P001",
+  "session_index": "practice_1",
+  "candidate": {
+    "id": "P001",
+    "name": "Participant P001"
+  },
+  "role": "Software Engineer (Pilot)",
+  "averagePace": 128.8,
+  "averageFillers": 7.0,
+  "averagePauseRatio": 0.225,
+  "overallScore": 3.35,
+  "questions": [
+    {
+      "id": "q-practice_1-1",
+      "number": 1,
+      "text": "Tell me about a complex technical problem you solved.",
+      "candidateAnswer": "Sample response text for pilot participant.",
+      "aiEvaluation": {
+        "overall_score": 3.35,
+        "rubric": {
+          "technical_depth": {
+            "score": 3.12,
+            "justification": "Pilot baseline"
+          },
+          "clarity": {
+            "score": 3.43,
+            "justification": "Pilot baseline"
+          }
+        },
+        "tone_analysis": {
+          "speech_rate_wpm": 128.8,
+          "filler_count": 7,
+          "hesitation_index": 0.537,
+          "pause_ratio": 0.225
+        }
+      }
+    }
+  ]
+}

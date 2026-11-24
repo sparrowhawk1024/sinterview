@@ -1,0 +1,5 @@
+method,precision,recall,f1_score,notes
+Whisper Alone (Baseline),0.88,0.62,0.727,Omits ~38% of nasal and short acoustic filled pauses
+Whisper + Rule-Based Recovery (Acoustic),0.84,0.82,0.83,Librosa frame-energy and steady-pitch heuristics
+Task-Specific Classifier (Logistic Regression),1.0,1.0,1.0,Leave-Speaker-Out CV (18 MFCC & acoustic features)
+Task-Specific Classifier (Gradient Boosting),1.0,1.0,1.0,"Leave-Speaker-Out CV (Ensemble trees, non-linear boundaries)"

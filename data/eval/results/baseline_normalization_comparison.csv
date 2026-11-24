@@ -1,0 +1,5 @@
+speaker_profile,warmup_baseline_wpm,observed_wpm,fixed_threshold_flag,baseline_z_score_wpm,baseline_normalized_flag,false_alarm_prevented
+Speaker_A (Naturally Fast),168.0,166.7,Rushed / Fast pace alert,-0.06,Natural pace for this speaker,"YES (Speaker naturally fast, not rushed)"
+Speaker_B (Naturally Deliberate),110.0,112.0,Normal conversational pace,0.15,Natural pace for this speaker,NO
+Speaker_C (Accelerating under pressure),130.0,195.0,Rushed / Fast pace alert,4.17,Significantly faster than personal baseline (+4.2σ),NO
+Speaker_D (Freezing / Hesitant),140.0,85.0,Hesitant / Slow pace alert,-3.27,Significantly slower than personal baseline (-3.3σ),NO

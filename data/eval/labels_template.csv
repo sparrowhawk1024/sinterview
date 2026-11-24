@@ -1,0 +1,2 @@
+recording_id,start_time_s,end_time_s,event_type,word_text,transcript,target_concept
+sample_rec_01,2.40,2.70,filler,um,In production we use virtual DOM um caching layers.,virtual DOM

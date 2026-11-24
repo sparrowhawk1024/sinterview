@@ -1,0 +1,20 @@
+answer_id,timestamp,persona,transcript_length,word_count,duration_seconds,voiced_duration_seconds,speech_rate_wpm,pause_ratio,mean_pause_s,longest_pause_s,pause_count,long_pause_count,pitch_std_semitones,pitch_range_semitones,pitch_median_hz,rms_mean_db,rms_cv,trailing_off_delta_db,is_trailing_off,filler_word_count,delivery_score,clarity_score,self_rating,reliability,analysis_label
+ans_1793042003644,2026-10-26T19:13:23.646933,friendly,0,0,1.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.75,0.9,,low,Text-only analysis
+ans_1793080130320,2026-10-27T05:48:50.322648,friendly,0,16,15.18,0.0,63.3,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1793080166491,2026-10-27T05:49:26.492193,friendly,0,21,11.95,0.0,105.5,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,1,0.75,0.75,,low,Text-only analysis
+ans_1793080191771,2026-10-27T05:49:51.772497,friendly,0,9,25.0,0.0,21.6,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1793080255622,2026-10-27T05:50:55.622768,friendly,0,13,50.94,0.0,15.3,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,1,0.55,0.75,,low,Text-only analysis
+ans_1793115145592,2026-10-27T15:32:25.594471,friendly,0,19,25.0,0.0,45.6,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1793123026469,2026-10-27T17:43:46.474401,friendly,0,1,25.0,0.0,2.4,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1793123116956,2026-10-27T17:45:16.956498,friendly,0,0,1.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.75,0.9,,low,Text-only analysis
+ans_1793123119411,2026-10-27T17:45:19.411091,friendly,0,1,25.0,0.0,2.4,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795072023473,2026-11-19T07:07:03.473831,friendly,0,14,120.87,0.0,6.9,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795074611080,2026-11-19T07:50:11.083191,friendly,0,21,25.0,0.0,50.4,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795074628982,2026-11-19T07:50:28.983126,friendly,0,19,25.0,0.0,45.6,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795074716024,2026-11-19T07:51:56.024245,friendly,0,12,71.41,0.0,10.1,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795074738616,2026-11-19T07:52:18.616982,friendly,0,68,21.36,0.0,191.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,1,0.55,0.9,,low,Text-only analysis
+ans_1795074762303,2026-11-19T07:52:42.304544,friendly,0,21,25.0,0.0,50.4,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795074762306,2026-11-19T07:52:42.306552,friendly,0,11,14.16,0.0,46.6,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795074798218,2026-11-19T07:53:18.219745,friendly,0,19,25.0,0.0,45.6,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795075260433,2026-11-19T08:01:00.434304,friendly,0,22,26.36,0.0,50.1,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis
+ans_1795075390507,2026-11-19T08:03:10.507347,friendly,0,21,25.0,0.0,50.4,0.0,0.0,0.0,0,0,0.0,0.0,0.0,-60.0,0.0,0.0,False,0,0.6,0.9,,low,Text-only analysis

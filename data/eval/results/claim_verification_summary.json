@@ -1,0 +1,43 @@
+{
+  "total_claims": 3,
+  "verified_claims_count": 2,
+  "dropped_claims_count": 1,
+  "unsupported_claim_rate": 0.333,
+  "verified_sample": [
+    {
+      "claim": "Candidate clearly stated \"virtual DOM\" in their solution.",
+      "type": "strength",
+      "metric_id": null,
+      "word_range": [
+        1,
+        2
+      ],
+      "rubric_dim": null,
+      "quoted_text": "virtual DOM",
+      "is_verified": true,
+      "verification_reason": "Quoted phrase 'virtual DOM' verified at [1:2]",
+      "start_time_s": 0.3,
+      "end_time_s": 1.2
+    },
+    {
+      "claim": "Candidate maintained low filler rate.",
+      "type": "metric_observation",
+      "metric_id": "filler_count_low",
+      "word_range": null,
+      "rubric_dim": null,
+      "quoted_text": null,
+      "is_verified": true,
+      "verification_reason": "Metric supported: filler_count=0 is low",
+      "start_time_s": null,
+      "end_time_s": null
+    }
+  ],
+  "dropped_sample": [
+    {
+      "claim": "Candidate discussed \"eventual consistency\" in distributed systems.",
+      "reasons": [
+        "Quoted phrase 'eventual consistency' not found in candidate transcript"
+      ]
+    }
+  ]
+}
